@@ -1,0 +1,15 @@
+D:\GeekBrains\first year\testwork\testwork1\obj\Debug\net8.0\testwork1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\first year\testwork\testwork1\obj\Debug\net8.0\testwork1.AssemblyInfoInputs.cache
+D:\GeekBrains\first year\testwork\testwork1\obj\Debug\net8.0\testwork1.AssemblyInfo.cs
+D:\GeekBrains\first year\testwork\testwork1\obj\Debug\net8.0\testwork1.csproj.CoreCompileInputs.cache
+D:\GeekBrains\first year\testwork\testwork1\obj\Debug\net8.0\testwork1.sourcelink.json
+D:\GeekBrains\first year\testwork\testwork1\bin\Debug\net8.0\testwork1.exe
+D:\GeekBrains\first year\testwork\testwork1\bin\Debug\net8.0\testwork1.deps.json
+D:\GeekBrains\first year\testwork\testwork1\bin\Debug\net8.0\testwork1.runtimeconfig.json
+D:\GeekBrains\first year\testwork\testwork1\bin\Debug\net8.0\testwork1.dll
+D:\GeekBrains\first year\testwork\testwork1\bin\Debug\net8.0\testwork1.pdb
+D:\GeekBrains\first year\testwork\testwork1\obj\Debug\net8.0\testwork1.dll
+D:\GeekBrains\first year\testwork\testwork1\obj\Debug\net8.0\refint\testwork1.dll
+D:\GeekBrains\first year\testwork\testwork1\obj\Debug\net8.0\testwork1.pdb
+D:\GeekBrains\first year\testwork\testwork1\obj\Debug\net8.0\testwork1.genruntimeconfig.cache
+D:\GeekBrains\first year\testwork\testwork1\obj\Debug\net8.0\ref\testwork1.dll
