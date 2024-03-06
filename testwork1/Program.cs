@@ -64,4 +64,4 @@ string[] matrix = CreatArray(size);
 int sizeNewArray = CountElementArray(matrix);
 string[] matrixLength3 = CreatNewArray(matrix, sizeNewArray);
 Console.WriteLine($"The original massive:\t [ {string.Join(", ", matrix)} ]");
-Console.WriteLine($"New massive:\t [ {string.Join(", ", matrixLength3)} ]");
+Console.WriteLine($"New massive:\t\t [ {string.Join(", ", matrixLength3)} ]");
